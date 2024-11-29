@@ -64,11 +64,18 @@ ul{
 #contact{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-#about_sec{
+.about_sec{
     height: 200px;
     border: 2px;
     background-color: #092635;
     margin: 50px;
     margin-top: 150px;
     border-radius: 20px;
+    padding-top: 10px;
+}
+.skill{
+    height: 180px;
+    width: 260px;
+    display: inline-block;
+    background-color: rgb(7, 55, 97);
 }
